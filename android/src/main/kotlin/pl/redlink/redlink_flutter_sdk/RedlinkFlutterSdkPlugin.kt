@@ -17,7 +17,6 @@ import io.flutter.plugin.common.MethodChannel
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler
 import io.flutter.plugin.common.MethodChannel.Result
 import io.flutter.plugin.common.PluginRegistry.NewIntentListener
-import io.flutter.plugin.common.PluginRegistry.Registrar
 import pl.redlink.push.RedlinkApp
 import pl.redlink.push.extension.isApplicationInForeground
 import pl.redlink.push.fcm.PushMessage
